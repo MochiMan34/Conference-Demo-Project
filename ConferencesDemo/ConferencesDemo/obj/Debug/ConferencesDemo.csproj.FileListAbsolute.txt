@@ -1,0 +1,6 @@
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe.config
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.pdb
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csprojResolveAssemblyReference.cache
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.exe
+C:\Users\MochiBot\documents\visual studio 2017\Projects\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.pdb
